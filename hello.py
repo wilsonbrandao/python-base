@@ -7,7 +7,7 @@ multiplas
 linhas
 """
 __version__ = "0.0.1"
-__author__ = "Bruno Rocha"
+__author__ = "Wlson Brandão"
 __license__ = "Unlicense"
 
 import os
